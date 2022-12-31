@@ -1,7 +1,120 @@
 .App {
   text-align: center;
 }
+.head {
+  color: rgb(1, 51, 1);
+  display: flex;
+  margin-top: 15px;
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-left: 20px;
+}
+.head1 {
+  color: rgb(1, 51, 1);
+  display: flex;
+  margin-top: 15px;
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-left: 10px;
+}
+.input {
+  height: 24px;
+  margin-left: 40px;
+  margin-top: 40px;
+  border-radius: 5px;
+  border-color: #fffd75;
+}
+.red {
+  height: 24px;
+  margin-left: 40px;
+  margin-top: 40px;
+  border-radius: 5px;
+  border-color: #f00c0c;
+}
 
+.input1 {
+  height: 24px;
+  margin-left: 20px;
+  margin-top: 40px;
+  border-radius: 5px;
+  border-color: #fffd75;
+}
+.input2 {
+  height: 24px;
+  margin-left: 20px;
+  margin-top: 40px;
+  border-radius: 5px;
+  border-color: #fffd75;
+}
+.input3 {
+  height: 60px;
+  width: 250px;
+  margin-left: 40px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border-color: #fffd75;
+}
+.input4 {
+  height: 24px;
+  width: 250px;
+  margin-left: 40px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border-color: #fffd75;
+}
+.input5 {
+  height: 24px;
+  width: 250px;
+  margin-left: 40px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border-color: #fffd75;
+}
+.input6 {
+  height: 24px;
+  width: 250px;
+  margin-left: 40px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border-color: #fffd75;
+}
+.input7 {
+  height: 24px;
+  width: 250px;
+  margin-left: 40px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border-color: #fffd75;
+}
+.input8 {
+  height: 24px;
+  width: 250px;
+  margin-left: 40px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border-color: #fffd75;
+}
+.input9 {
+  height: 24px;
+  width: 200px;
+  margin-left: 40px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border-color: #fffd75;
+}
+.bankdet {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #014a5e;
+  margin-left: 550px;
+}
+.account {
+  margin-left: 150px;
+  height: 550px;
+  border-radius: 5px;
+  background-color: #fffd75;
+  width: 700px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
